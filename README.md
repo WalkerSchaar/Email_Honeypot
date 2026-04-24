@@ -1,1 +1,1 @@
-# Email_Honeypot
+pip3 install --upgrade msal requests
